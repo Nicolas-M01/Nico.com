@@ -2,5 +2,7 @@
 
 Création d'une Infra complète virtualisée.  
 
-En cours : Schéma Synoptique et découpage en VLANS  
+Objectif : Revoir et maintenir les connaissances aquises pendant la formation en Technicien Supérieur en Systèmes et Réseaux.
+
+En cours : Découpage en VLANS / script création de groupes et insertion des utilisateurs dans les groupes / puis création des dossiers par script PowerShell.
 A venir : configuration sur Paquet Tracer / Paramétrage PfSense  
