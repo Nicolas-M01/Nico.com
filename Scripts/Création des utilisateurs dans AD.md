@@ -1,6 +1,8 @@
 ```powershell
-
+# On rentre dans une variable le chemin du fichier CSV
 $CSVFile = "C:\Users\Administrator\Desktop\Billu S01.csv"
+
+# Importation des données du fichier CSV en précisant le délimiteur et l'encodage
 $CSVData = Import-CSV -Path $CSVFile -Delimiter "," -Encoding UTF8
 
 $CSVData
@@ -45,5 +47,3 @@ ForEach ($Utilisateur in $CSVData){
 
 
 }
-
-```powershell
