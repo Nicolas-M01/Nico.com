@@ -1,5 +1,5 @@
 
-Les explications de l'administration de l'AD avec Powershell intègre les scripts et le fichier "CSV" dans le dossier `Script` de ce dépôt.
+Les explications de l'administration de l'AD avec Powershell intègrent les scripts et le fichier "CSV" dans le dossier `Script` de ce dépôt.
 
 ## Introduction  
 Une fois le rôle `AD DS` installé, il est nécéssaire d'intégrer les utilisateurs à l'annuaire AD, ainsi que de créer les groupes, intégrer les utilisateurs dans les groupes, créer 1 OU par département et rentrer automatiquement les groupes et utilisateurs dans les bonnes "OU" ( donc dans les bons départements ). Nous commençons à l'aide d'un fichier ".CSV" qui nous permettra de contenir toutes les informations nécéssaires à l'automatisation à l'aide de scripts PowerShell.
