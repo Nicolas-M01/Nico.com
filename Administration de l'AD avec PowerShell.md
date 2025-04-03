@@ -13,3 +13,4 @@ Install-Module importexcel
 # Ici on importe le fichier Excel depuis le chemin spécifié, puis on l'envoie dans une commande qui va exporter au format CSV dans le chemin spécifié, supprimer la première ligne d'information et l'exportation se fait en UTF8 pour conserver les accents et caractère spéciaux.  
 Import-Excel -path "C:\Users\Administrator\Desktop\Copy of s01_BillU (1).xlsx" | Export-Csv "C:\Users\Administrator\Desktop\Billu S01.csv" -NoTypeInformation -Encoding UTF8
 ```
+Nous utilisons le fichier `UserList.csv` de ce dépôt.  
