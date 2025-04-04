@@ -15,6 +15,10 @@ A savoir, pour administrer le FireWall, il est nécessaire de se connecter côt�
 
 <details>
 <summary><h1>🎯 Création des VLANs sur PfSense<h1></summary>
-
+A venir...
 </details>
 
+<details>
+<summary><h1>🎯 Règles de filtrage<h1></summary>
+A venir...
+</details>
