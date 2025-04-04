@@ -7,8 +7,8 @@
 <summary><h1>🎯 Cartes réseaux du PfSense<h1></summary>
 Nous avons 2 cartes réseaux sur ce FireWall PfSense. Une carte WAN, qui sera du côté internet (mais qui sera relié à mon routeur box internet) et une carte LAN qui sera côté intérieur, donc avec un réseau privé.
  
-### Carte WAN  : 
-### Carte LAN  : 
+### Carte WAN  : ``192.168.1.67/24`` 
+### Carte LAN  : ``192.168.2.1/24``  
 
 </details>
 
