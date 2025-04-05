@@ -28,8 +28,9 @@ Mon PfSense contient une interrface physique "LAN" pour l'administration, mais a
 ![Capture d'écran 2025-04-05 184352](https://github.com/user-attachments/assets/70a32fb0-7eae-412b-9748-b3c9e81465f4)
 ![Capture d'écran 2025-04-05 184846](https://github.com/user-attachments/assets/d68e4f80-74e5-49ff-8ef3-05908aacd3c0)
 
-### Voilà à quoi peut ressembler une segmentation d'un réseau en VLANs.  
-![Capture d'écran 2025-04-05 190002](https://github.com/user-attachments/assets/5e71c858-7f17-4ad0-a350-abd0a6f4f91b)
+### Voilà à quoi peut ressembler une segmentation d'un réseau en VLANs avec en description, chaque département (qui correspond à une Unité d'Organisation).  
+![Capture d'écran 2025-04-05 190924](https://github.com/user-attachments/assets/fa569eec-30be-4d65-9b77-c4756c2ee393)
+
 
 </details>
 
