@@ -31,6 +31,12 @@ Mon PfSense contient une interrface physique "LAN" pour l'administration, mais a
 ### Voilà à quoi peut ressembler une segmentation d'un réseau en VLANs avec en description, chaque département (qui correspond à une Unité d'Organisation).  
 ![Capture d'écran 2025-04-05 190924](https://github.com/user-attachments/assets/fa569eec-30be-4d65-9b77-c4756c2ee393)
 
+### Assignation des VLANs à un port :  
+Je choisis le `network ports` que que j'ai créé puis je clique sur ``Add``
+![Capture d'écran 2025-04-05 191237](https://github.com/user-attachments/assets/cc79273f-082b-48b2-9a63-ff88f4d58b23)
+
+Paramétrage de chaque interface logique : Activation de l'interface, nommage, attribution de l'adresse de passerelle avec son CIDR.  
+![Capture d'écran 2025-04-05 195821](https://github.com/user-attachments/assets/af3a5d44-47fa-4fac-8c4f-e9aa6879a1cb)
 
 </details>
 
