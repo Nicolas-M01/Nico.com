@@ -21,7 +21,14 @@ A savoir, pour administrer le FireWall, il est nécessaire de se connecter côt�
 
 <details>
 <summary><h1>🎯 Création des VLANs sur PfSense<h1></summary>
-A venir...
+ 
+Mon PfSense contient une interrface physique "LAN" pour l'administration, mais aussi pour relier toutes les machines du réseau local. Grâce à la norme IEEE 802.1Q je crée des VLAN pour diviser cette interface en sous interfaces logiques, de fçon à implémenter de la QoS et de la sécurité.  
+ ### Cliquer sur `Interfaces->Assignments->VLANs->Add`, sélectionner la bonne carte réseau (LAN) puis paramétrer la carte comme sur les images ci-dessous et sauvegarder
+
+![Capture d'écran 2025-04-05 184352](https://github.com/user-attachments/assets/70a32fb0-7eae-412b-9748-b3c9e81465f4)
+![Capture d'écran 2025-04-05 184846](https://github.com/user-attachments/assets/d68e4f80-74e5-49ff-8ef3-05908aacd3c0)
+
+
 </details>
 
 <details>
