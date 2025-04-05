@@ -2,9 +2,9 @@
 <details>
 <summary><h1>🎯 Généralités<h1></summary>
 Un pare-feu est un outil de défense de première ligne qui surveille le trafic entrant et sortant, et décide d'autoriser ou de bloquer une partie de ce trafic en fonction d'un ensemble de règles de sécurité prédéfinies. Il permet donc de faire du routage également.  
- Par défaut, les identifiants sont :
- Username : admin  
- Password : pfsense  
+Par défaut, les identifiants sont :  
+Username : admin  
+Password : pfsense  
  Il convient de les changer à la première connexion.  
 </details>
 
