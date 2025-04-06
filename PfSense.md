@@ -20,6 +20,13 @@ A savoir, pour administrer le FireWall, il est nécessaire de se connecter côt�
 </details>
 
 <details>
+<summary><h1>🎯 Configuration machine Administration<h1></summary>
+ 
+![Capture d'écran 2025-04-06 095143](https://github.com/user-attachments/assets/9771774c-59d6-409b-bc05-6b4972e46c1e)
+
+
+
+<details>
 <summary><h1>🎯 Création des VLANs sur PfSense<h1></summary>
  
 Mon PfSense contient une interrface physique "LAN" pour l'administration, mais aussi pour relier toutes les machines du réseau local. Grâce à la norme IEEE 802.1Q je crée des VLAN pour diviser cette interface en sous interfaces logiques, de fçon à implémenter de la QoS et de la sécurité.  
