@@ -47,6 +47,20 @@ Paramétrage de chaque interface logique : Activation de l'interface, nommage, a
 
 </details>
 
+
+Suppression du lan de base pour n'avoir accès que par des VLANs.  
+
+![Capture d'écran 2025-04-06 102641](https://github.com/user-attachments/assets/c2834919-223c-400d-be72-ba573449f1d3)
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary><h1>🎯 Règles de filtrage<h1></summary>
 A venir...
