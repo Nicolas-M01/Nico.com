@@ -18,7 +18,7 @@ Nous avons 2 cartes réseaux sur ce FireWall PfSense. Une carte WAN, qui sera du
 A savoir, pour administrer le FireWall, il est nécessaire de se connecter côté LAN, en se connectant avec l'adresse IP dans l'URL (ou le nom de la machine si enregistrement DNS a été fait).  
  
 ### Carte WAN  : ``192.168.1.67/24`` 
-### Carte LAN  : ``192.168.20.1/24``  
+### Carte LAN  : ``192.168.99.1/30``  
 </details>
 
 <details>
